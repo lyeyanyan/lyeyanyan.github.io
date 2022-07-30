@@ -105,7 +105,7 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/lyeyanyan/lyeyanyan.github.io.git
-  branch: main
+  branch: master
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
